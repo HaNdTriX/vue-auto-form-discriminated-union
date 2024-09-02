@@ -17,4 +17,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "https://HaNdTriX.github.io/vue-auto-form-discriminated-union/",
 });
